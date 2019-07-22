@@ -1,0 +1,18 @@
+{
+  "name": "itc-host.com",
+  "description": "",
+  "main": "",
+  "license": "",
+  "homepage": "",
+  "directory": "app/libs/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "magnific-popup": "^1.1.0"
+  }
+}
